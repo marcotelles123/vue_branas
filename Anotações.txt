@@ -1,0 +1,5 @@
+eslint para pegar erros de boas praticas
+configurar no package.json -- rules	
+
+para rodar:
+	npm run lint
