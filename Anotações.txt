@@ -3,3 +3,11 @@ configurar no package.json -- rules
 
 para rodar:
 	npm run lint
+
+computed prporties:
+	cria algo como um observable, watcher ou coisa assim.. q sempre que o objeto é alterado esse metodo é chamado
+
+
+Principais vantages:
+	DOM virtual - igual react para so atualizar o que foi alterado
+	Reatividade com o computed properties
